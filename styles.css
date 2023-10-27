@@ -51,3 +51,18 @@ body{
     line-height: 1.4;
     margin: 0;
 }
+
+.card {
+    background-color: rgba(38,50,65,.9) !important;
+}
+
+.card-header p {
+    color: white;
+    font-weight: bold;
+}
+
+.price {
+    color: white;
+    font-weight: bold;
+    margin-left: 15px;
+}
