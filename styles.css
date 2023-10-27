@@ -1,0 +1,53 @@
+body{
+    background-color: #151d27 !important;
+}
+
+#hero-section {
+    width: auto;
+    height: 80vh;
+    background-image: url("/assets/mario_hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hero-section-cta {
+    background-color: #069;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: #09c;
+    border-style: solid;
+    padding: 10px 15px;
+}
+
+.featured-product {
+    object-fit: cover;
+    object-position: center;
+    width: 70%;
+}
+
+#featured-products-carousel {
+    margin-top: -200px;
+}
+
+.why-nuuvem-icon {
+    margin-right: 10px;
+}
+
+.why-nuuvem-content-title {
+    color: #09c;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.4;
+    margin: 0;
+}
+
+.why-nuuvem-content-content {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.4;
+    margin: 0;
+}
